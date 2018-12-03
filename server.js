@@ -28,7 +28,7 @@ app.use(function (req, res, next) {
 
 // test
 app.get('/', function (req, res, next) {
-    res.json({ message: 'hsg hs2018 chat-app api works...' });
+    res.json({ message: 'Team Alpha Server ist ready ;)' });
 });
 
 // history
