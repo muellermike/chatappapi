@@ -2,6 +2,6 @@
     "appService.zipIgnorePattern": [
         "node_modules{,/**}"
     ],
-    "appService.defaultWebAppToDeploy": "/subscriptions/1a270d35-b19e-4fb2-a5e5-83ce81802efd/resourceGroups/appsvc_rg_linux_centralus/providers/Microsoft.Web/sites/alpha-hsgchatapp",
-    "appService.deploySubpath": ""
+    "appService.deploySubpath": "",
+    "appService.defaultWebAppToDeploy": "/subscriptions/1a270d35-b19e-4fb2-a5e5-83ce81802efd/resourceGroups/appsvc_rg_linux_centralus/providers/Microsoft.Web/sites/alpha-hsgchatapi"
 }
